@@ -1,0 +1,17 @@
+.svg-icon {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    fill: #{$grey-1};
+    vertical-align: middle;
+}
+
+.social-media-list {
+  li + li {
+    padding-top: 5px;
+  }
+
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
