@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Evaluating blockchain applications"
+date:   2018-02-12
+categories: blockchain
+---
+Independent from the political and technical arguments for or against Bitcoin (or other cryptocoins) as a currency, there exists the idea of the blockchain as an application component.  How do you assess whether a use of the blockchain makes sense or simply trying to ride the hype cycle?
+
+Blockchain technology claims to provide several benefits: decentralization, immutability, and transparency of transactions.  Putting aside the specifics of how and whether these benefits are tangibly realized on any specific chain, it is still possible to evaluate whether these benefits are actually really benefits and whether they even require the blockchain to be realized.
+
+A commonly suggested use is to track ownership or rights on the blockchain, removing the need to trust a central authority.  In many proposed systems all that has really happened, though, is moving the central authority somewhere else. Who writes or validates transactions?  Who handles associating and searching the metadata tied to them? Or more fundamentally, how do you even get coins to participate without having to mine them all yourself?  Right now the exchanges are clearly a central authority – and in aggregate, they've proven to be unreliable, with outright theft, security issues, illiquidity, and instability being common.
+
+Assuming the application hasn't simply moved the central authority somewhere else (or you believe that the exchange problem will eventually sort itself out), it's worth asking whether the current central authority has failed to function in some meaningful way.  These claims are difficult to evaluate without introducing a political element.  Tracking copyrights, land ownership, health care records, etc., all have existing sets of authorities that manage these functions currently.  When evaluating their efficacy, there's an undercurrent of distrust of any institution (whether public or private) that can potentially cloud your judgment.  No matter where you land politically, think about current ways of dispute resolution, recourse available in the event of bad behavior, and your ability to influence that authority (such as, for a public institution, political processes), before concluding that decentralized systems are superior.  
+
+On the blockchain there are no refunds.  Immutable transactions mean that other parties would have to agree to send things back or write a new compensating record in the event of even a simple mistake. In traditional commerce or record keeping scenarios you have a set of mechanisms at your disposal to get resolution, up to and including the court system.  Though these mechanisms are often painful and time consuming, they at least exist.  This is an area where crypto as currency falls well short of existing methods of transacting – refund policies, chargebacks, consumer protection agencies, and settled case law all have your back here.
+
+This brings us back to the practical considerations that were put aside at the beginning.  Because of the decentralized trust model, there are huge risks for building an application against anything other than the largest blockchain or two – you have to use a chain with a large and distributed pool of miners or the chain can easily be manipulated.  This forces you to deal with the reality of Bitcoin itself, which is volatile, energy inefficient, has incredibly high transactions fees, and can only support very low transaction volumes.
+
+Many are confident that these issues can be worked out – your confidence in that could influence whether a given application makes sense or is viable.  To paraphrase Fowler, the first rule of distributed systems is: Don't Build Distributed Systems.  It's worth making sure any proposed use of blockchain has a compelling answer to: Why not a central database? Or Why not dollars?
