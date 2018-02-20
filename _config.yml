@@ -13,7 +13,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author
 author:
   name: harmless
-  url: http://harmlessmachines.com
+
+url: http://harmlessmachines.com
 
 google_analytics: UA-113927228-1
 
