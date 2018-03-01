@@ -3,7 +3,6 @@ layout: post
 title:  "The most important part of agile"
 date:   2018-03-01
 categories: agile
-excerpt: People think about agile as an iterative and incremental way to deliver software. The real power is in the meta-process - the iterative and incremental way to improve the way you deliver software.
 ---
 
 ## The most important part of agile is the deliberate introspection that should precede the retro ##
