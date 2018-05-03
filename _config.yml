@@ -14,7 +14,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: harmless
 
-url: http://harmlessmachines.com
+url: https://harmlessmachines.com
 
 google_analytics: UA-113927228-1
 
