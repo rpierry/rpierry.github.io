@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Distributed systems Are complicated"
+title:  "Distributed systems are complicated"
 date:   2018-11-28
 categories: technology, microservices
 ---
