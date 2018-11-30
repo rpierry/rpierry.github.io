@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unwritten Rules"
+title:  "Unwritten rules"
 date:   2018-10-25
 categories: technology, culture
 ---
