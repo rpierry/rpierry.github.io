@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Contracting in the agile age"
+date:   2019-02-27
+categories: technology, agile
+---
+
+Building a sustainable agile software process requires adjustments across your entire organization.  To deliver iteratively, incrementally, and continuously, all participants in the process must be prepared to work in a way compatible with these goals.  If, for example, product ownership and development teams are on board, but QA is still a fixed, lengthy process before every release, true agile delivery won't be possible.  In effect, you are only as agile as your least agile part.
+
+Every business (and software initiative) has unique constraints that the development methodology must fit within.  For some domains where security is critical or defects would cause significant harm, an intentional lack of agility before launch may be a desired step, but the important word here is 'intentional' [do things on purpose][do-on-purpose-link].  You understand the constraint, implement a step in the process to respect it, and also understand the impact (in this case, a period of little to no velocity and no ability to change course combined with a less frequent release cadence).
+
+For the projects that we [projekt202][projekt202-link] undertake, we often partner with clients to form blended teams or take on complete sections of the process ourselves.  This adds an extra complication to agile development – contracting.  Internal development efforts need only to get business stakeholders on board with incremental delivery.  Working with partners now means legal and procurement departments have to find a way to integrate with agile processes while still being able to perform their critical functions of protecting the company and looking out for the bottom line.
+
+The broader acceptance of agile methodologies forms a positive feedback loop with contracting.  The more companies work in an agile way, the more willing procurement departments become to write agile-style contracts that talk more about teams of people over time than they do about specific deliverables at specific dates.  The more of these contracts that get written, the more agile development gets done.  Because of this loop, agile methodologies have become commonly accepted, both internally and when working with partners.
+
+How do companies protect themselves?  At first glance, open ended contracts with no deliverables and no acceptance criteria would seem to be a professional service company's dream.  For a short-sighted company, they might be.  Companies that think long term want to know concretely how to exceed expectations and agile-style contracts no longer contain this mechanism.  Instead, we find ourselves in a continuous process of understanding and exceeding expectations.  We have no concrete deliverables achieved to rest on.  If our customers don't think we've delivered fast enough or at sufficient quality, that's it, regardless of what we have produced.  Because we are delivering iteratively and incrementally, our customers get to see new stuff from us every week.  They are, in effect, in a continuous process of acceptance.  If something doesn't pass muster, the work to remediate it gets added to the backlog and the business stakeholders get to decide what is likely to yield the most value, new features or fixing defects or a combination of both. If nothing passes muster, then we won't be partners for very long.
+
+It's tempting to retain traditional contracting methods and assurances when moving into agile delivery, but many of these effectively make agile impossible.  A time period allowed for explicit acceptance of delivery imposes a mandatory pause on forward progress.  Now your two week sprint contains two weeks of work and a pause for another week for acceptance to be granted before you can build on top of this foundation.  When these contracts also include guarantees about finding and fixing defects, then fewer stories can be tackled as well.
+
+Agile methodologies shift your organization to expect continuous delivery of value, but this is only possible when all contributors can work in a compatible way.  Imposing traditional contracting constraints on an agile methodology leads to delays, additional effort required for up front specification, and lower effective velocity.  Instead, agile-style contracts actually offer companies more protection, by asking their partners to continuously and obviously demonstrate their value.
+
+
+[projekt202-link]: https://projekt202.com
+[do-on-purpose-link]: https://harmlessmachines.com/2018-07-09/do-things-on-purpose
